@@ -3,7 +3,7 @@
 
 В проекте используется:
 
-css
-html
-js
-normalize
+- css
+- html
+- js
+- normalize
