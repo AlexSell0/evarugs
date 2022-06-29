@@ -96,7 +96,7 @@ button, input{
 }
 
 .header__nav a:not(:last-child){
-    margin-right: 2.5em;
+    margin-right: 2.5rem;
 }
 
 .header__fint{
